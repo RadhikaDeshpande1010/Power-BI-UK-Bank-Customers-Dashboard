@@ -57,6 +57,11 @@ The data for this UK Bank Customer Dashboard is sourced from Kaggle, a renowned 
 
 ## Dashboard
 
-![Dashboard Image](https://github.com/RadhikaDeshpande1010/Power-BI-UK-Bank-Customers-Dashboard/blob/main/UK%20Bank%20Customer%20Image1.png") 
+<img width="1800" alt="UK Bank Customer Image1" src="https://github.com/RadhikaDeshpande1010/Power-BI-UK-Bank-Customers-Dashboard/blob/main/UK%20Bank%20Customer%20Image1.png">
 
-![Dashboard Image](https://github.com/RadhikaDeshpande1010/Power-BI-UK-Bank-Customers-Dashboard/blob/main/UK%20Bank%20Customer%20Image2.png") 
+<img width="1800" alt="UK Bank Customer Image2" src="https://github.com/RadhikaDeshpande1010/Power-BI-UK-Bank-Customers-Dashboard/blob/main/UK%20Bank%20Customer%20Image2.png">
+
+## Conclusion
+* The majority of customers fall within the 30-55 age range, with a fairly even split between genders. The highest concentration of customers is in the England and Scotland regions.
+* A significant proportion of customers maintain a moderate balances. This understanding enables the bank to personalize services and financial products according to customers' financial profiles.
+* The distribution of customers by the month they joined the bank describes the notable trends. Understanding customer acquisition patterns over time facilitates strategic planning for marketing campaigns and customer retention initiatives.
