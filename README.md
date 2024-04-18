@@ -30,8 +30,6 @@ The data for this UK Bank Customer Dashboard is sourced from Kaggle, a renowned 
 
 ## DAX Formulas Used in Measures
 
-## DAX Formulas Used in Measures
-
 **1. Total Customers:** This DAX expression counts the total number of customers in the dataset.
 * ```
   Total Customers = COUNT('UK Bank Customers Template'[Customer ID])
