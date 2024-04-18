@@ -4,7 +4,6 @@
 
 ## Table of Contents
 * [Introduction](#Introduction)
-* [Dashboard Requirements](#Dashboard-Requirements)
 * [Dataset](#Dataset)
 * [Data Analysis](#Data-Analysis)
 * [Data Preparation and Processing](#Q2-Employee-Attendance-Data-Preparation-and-Processing)
@@ -15,3 +14,18 @@
 ## Introduction
 * This project aims to develop a Power BI Dashboard to provide insights into UK Bank Customers which providesa concise overview of key metrics and insights relevant to customers' banking activities, offering a simplified interface for easy navigation and quick access to important information.
 * The Power BI dashboard for analyzing UK Bank Customers data can be accessed through the following link: [UK Bank Customers Dashboard](https://github.com/RadhikaDeshpande1010/Power-BI-UK-Bank-Customers-Dashboard/blob/main/UK%20Bank%20Customer%20Report.pbix)
+
+## Dataset
+The dataset comprises attributes information like an Region, Gender, Customers id and Name Classification, Age Distribution, Distribution by Balance, Job Classification etc. Various analysis like the Region wise classification,Gender wise classification, Customer Id and Name classification, Age classification, Distribution by Balance and many other analysis are performed on the dataset.
+The data for this UK Bank Customer Dashboard is sourced from Kaggle, a renowned platform for hosting datasets.
+
+## Data Analysis
+
+## UK Customers Data Preparation and Processing 
+* Load the Raw Data.
+* To conduct the analysis, I needed to convert the dataset from wide to long format. To do so, I used Power Query to unpivot the date columns.
+* Data cleaning is performed on Power Query.
+* In Power Query, I ensured data quality by removing unnecessary columns, eliminating duplicate rows, and meticulously cleaning individual rows such as correcting spelling mistakes, standardizing formatting, filling in missing values, or resolving conflicting information to ensure to data accuracy and consistency.
+* After Data Preparation and Processing activity, it is ready for developing the Interactive Dashboard.
+
+## DAX Formulas Used in Measures
