@@ -29,3 +29,34 @@ The data for this UK Bank Customer Dashboard is sourced from Kaggle, a renowned 
 * After Data Preparation and Processing activity, it is ready for developing the Interactive Dashboard.
 
 ## DAX Formulas Used in Measures
+
+## DAX Formulas Used in Measures
+
+**1. Total Customers:** This DAX expression counts the total number of customers in the dataset.
+* ```
+  Total Customers = COUNT('UK Bank Customers Template'[Customer ID])
+  ```
+  
+**2. Male Count and Female:** This DAX expression calculate the count of male and female customers respectively based on your dataset.
+* ```
+  Male Count = COUNTROWS(FILTER('UK Bank Customers Template','UK Bank Customers Template'[Gender] = "Male"))
+  Female Count = COUNTROWS(FILTER('UK Bank Customers Template','UK Bank Customers Template'[Gender] = "Female"))
+  ```
+
+**3. Region:** This DAX expression gives a distinct count of the regions in the dataset.
+* ```
+  Region = DISTINCTCOUNT('UK Bank Customers Template'[Region])
+  ```
+
+**4. Average Balance Per Customers:** This DAX expression provides average balance per customer..
+* ```
+  Average Balance Per Customers = DIVIDE(
+  SUM('UK Bank Customers Template'[Balance]),
+  COUNT('UK Bank Customers Template'[Customer ID]))
+  ```
+
+## Dashboard
+
+![Dashboard Image](https://github.com/RadhikaDeshpande1010/Power-BI-UK-Bank-Customers-Dashboard/blob/main/UK%20Bank%20Customer%20Image1.png") 
+
+![Dashboard Image](https://github.com/RadhikaDeshpande1010/Power-BI-UK-Bank-Customers-Dashboard/blob/main/UK%20Bank%20Customer%20Image2.png") 
