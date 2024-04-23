@@ -16,7 +16,7 @@
 * The Power BI dashboard for analyzing UK Bank Customers data can be accessed through the following link: [UK Bank Customers Dashboard](https://github.com/RadhikaDeshpande1010/Power-BI-UK-Bank-Customers-Dashboard/blob/main/UK%20Bank%20Customer%20Report.pbix)
 
 ## Dataset
-The dataset comprises attributes information like an Region, Gender, Customers id and Name Classification, Age Distribution, Distribution by Balance, Job Classification etc. Various analysis like the Region wise classification,Gender wise classification, Customer Id and Name classification, Age classification, Distribution by Balance and many other analysis are performed on the dataset.
+The dataset comprises attributes information such as Region, Gender, Customers id and Name Classification, Age Distribution, Distribution by Balance, Job Classification etc. Various analyses like the Region-wise classification, Gender-wise classification, Customer Id and Name classification, Age classification, Distribution by Balance and many other analysis are performed on the dataset.
 The data for this UK Bank Customer Dashboard is sourced from Kaggle, a renowned platform for hosting datasets.
 
 ## Data Analysis
