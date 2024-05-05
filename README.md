@@ -1,6 +1,6 @@
 # Power-BI-UK-Bank-Customers-Dashboard
 
-<img src="https://github.com/RadhikaDeshpande1010/Power-BI-UK-Bank-Customers-Dashboard/blob/main/UK%20Bank%20Customers%20Banner1.png" height="230" width="1200">
+<img src="https://github.com/RadhikaDeshpande1010/Power-BI-UK-Bank-Customers-Dashboard/blob/main/Snap/Background.png" height="230" width="1200">
 
 ## Table of Contents
 * [Introduction](#Introduction)
