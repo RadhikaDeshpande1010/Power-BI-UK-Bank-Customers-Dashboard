@@ -1,6 +1,6 @@
 # Power-BI-UK-Bank-Customers-Dashboard
 
-<img src="https://github.com/RadhikaDeshpande1010/Power-BI-UK-Bank-Customers-Dashboard/blob/main/Snap/Background.png" height="100%">
+<img src="https://github.com/RadhikaDeshpande1010/Power-BI-UK-Bank-Customers-Dashboard/blob/main/Images/Background.png" height="100%">
 
 ## Table of Contents
 * [Introduction](#Introduction)
@@ -55,9 +55,9 @@ The data for this UK Bank Customer Dashboard is sourced from Kaggle, a renowned 
 
 ## Dashboard
 
-<img width="1800" alt="UK Bank Customer Image1" src="https://github.com/RadhikaDeshpande1010/Power-BI-UK-Bank-Customers-Dashboard/blob/main/Snap/UK%20Bank%20Customer%20Image1.png">
+<img width="1800" alt="UK Bank Customer Image1" src="https://github.com/RadhikaDeshpande1010/Power-BI-UK-Bank-Customers-Dashboard/blob/main/Images/UK%20Bank%20Customer%20Image1.png">
 
-<img width="1800" alt="UK Bank Customer Image2" src="https://github.com/RadhikaDeshpande1010/Power-BI-UK-Bank-Customers-Dashboard/blob/main/Snap/UK%20Bank%20Customer%20Image2.png">
+<img width="1800" alt="UK Bank Customer Image2" src="https://github.com/RadhikaDeshpande1010/Power-BI-UK-Bank-Customers-Dashboard/blob/main/Images/UK%20Bank%20Customer%20Image2.png">
 
 ## Conclusion
 * The majority of customers fall within the 30-55 age range, with a fairly even split between genders. The highest concentration of customers is in the England and Scotland regions.
