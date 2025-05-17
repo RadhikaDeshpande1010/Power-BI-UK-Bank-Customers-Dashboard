@@ -86,9 +86,7 @@ With data transformation and cleaning complete, the dataset was <strong>optimize
 
 ## Dashboard
 
-<img width="1800" alt="UK Bank Customer Image1" src="https://github.com/RadhikaDeshpande1010/Power-BI-UK-Bank-Customers-Dashboard/blob/main/SRC/UK%20Bank%20Customer%20Dashboard%201.png">
-
-<img width="1800" alt="UK Bank Customer Image2" src="https://github.com/RadhikaDeshpande1010/Power-BI-UK-Bank-Customers-Dashboard/blob/main/SRC/UK%20Bank%20Customer%20Dashboard%202.png">
+<img width="1800" alt="UK Bank Customer Dasboard" src="https://github.com/RadhikaDeshpande1010/Power-BI-UK-Bank-Customers-Dashboard/blob/main/SRC/UK%20Bank%20Customers%20Dashboard.png">
 
 ## Future Enhancements
 - Integration with live data sources.
